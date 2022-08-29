@@ -1,4 +1,4 @@
-<a href="https://nsafarova.github.io/weather-app">
+<a href="https://nsafarova.github.io/weather-app" target="_blank">
 <button>Demo of the Project</button>
 </a>
 
