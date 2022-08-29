@@ -24,7 +24,7 @@ function App() {
 
 
   return (
-    <div className={(typeof data.main != "undefined") ? ((data.main.temp > 16) ? 'app warm' : 'app') : 'app'}>
+    <div className={(typeof data.main != "undefined") ? ((data.main.temp < 16) ? 'app cold' : 'app') : 'app'}>
       <main>
       <div className="search">
         <input 
