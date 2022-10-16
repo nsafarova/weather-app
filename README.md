@@ -1,3 +1,7 @@
+<a href="https://nsafarova.github.io/weather-app" target="_blank">
+<button>Demo of the Project</button>
+</a>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
